@@ -1,3 +1,9 @@
+# Main binary file
+euromillion-grid-generator
+
+# Valgrind files
+vgcore.*
+
 # Prerequisites
 *.d
 
